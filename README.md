@@ -1,7 +1,7 @@
 # Control de Inventarios - Microservicios Challenge
 
 ## Descripción
-Sistema de microservicios para gestión de productos e inventario siguiendo el estándar JSON API.
+Sistema de microservicios para gestión de productos e inventario siguiendo el estándar JSON API y Comunucacion http.
 
 ## Tecnologías
 - Java 21
