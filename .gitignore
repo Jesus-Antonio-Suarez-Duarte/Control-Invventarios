@@ -7,16 +7,29 @@ target/
 pom.xml.tag
 pom.xml.releaseBackup
 
-# IDE
+# STS (Spring Tool Suite)
+.metadata/
+.recommenders/
+.settings/
+.project
+.classpath
+.springBeans
+.sts4-cache/
+
+# IntelliJ (por si alguien más usa el proyecto)
 .idea/
 *.iws
 *.iml
 *.ipr
+
+# VS Code
 .vscode/
 
-# OS
-.DS_Store
+# Windows
 Thumbs.db
+
+# macOS
+.DS_Store
 
 # Spring Boot
 .env

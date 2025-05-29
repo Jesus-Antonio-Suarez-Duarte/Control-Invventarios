@@ -5,7 +5,7 @@ Sistema de microservicios para gestión de productos e inventario.
 
 ## Tecnologías
 - Java 21
-- Spring Boot 3.5.0
+- Spring Boot 3.5
 - Maven
 - Docker
 - JSON API Standard
